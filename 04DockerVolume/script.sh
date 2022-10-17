@@ -1,1 +1,1 @@
-docker container run -it --name alp1 -v $(pwd)/teste:/usr/share
+docker container run -it --name alp1 -v $(pwd)/teste:/usr/share alpine
