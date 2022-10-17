@@ -1,0 +1,4 @@
+abc -1
+bbb 33.1
+xpt 10
+aaa 0
